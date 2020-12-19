@@ -1,0 +1,8 @@
+{
+	"dependencies":[
+		"LSI_analyze",
+		"matlab_instrument_control",
+		"ryan_toolbox",
+		"WZhu_toolbox"
+	]
+}
